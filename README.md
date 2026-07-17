@@ -6,14 +6,9 @@ Repositório destinado ao desenvolvimento do sistema MoveUP, contendo documenta�
 - Carlos Eduardo Crecencio Silva Sousa
 - Maria Clara Alves da Silva
 - Nauhana Stephany Marques dos Santos Silva
-
 # Sobre o projeto:
   O MoveUp é uma aplicação desenvolvid para auxiliar no acompanhamento de avaliações físicas, metas e evolução dos usuários.
-
 # Casos de Uso:
-
-
-# Diagrama de Caso de Uso:
 
 
 # Links:
