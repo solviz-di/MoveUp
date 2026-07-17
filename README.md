@@ -7,7 +7,7 @@ Repositório destinado ao desenvolvimento do sistema MoveUP, contendo documenta�
 - Maria Clara Alves da Silva
 - Nauhana Stephany Marques dos Santos Silva
 # Sobre o projeto:
-  O MoveUp é uma aplicação desenvolvid para auxiliar no acompanhamento de avaliações físicas, metas e evolução dos usuários.
+  O MoveUp é uma aplicação desenvolvido para auxiliar no acompanhamento de avaliações físicas, metas e evolução dos usuários.
 # Casos de Uso:
 Caso de Uso 1 - Realizar Login
 
@@ -91,6 +91,44 @@ Fluxo Alternativo
     * O sistema informa que não há registros.
 
 
+Caso de Uso 5 – Gerar Relatório PDF
+
+Ator: Avaliador
+
+Objetivo: Gerar um relatório das avaliações.
+
+Fluxo Normal
+
+1. O usuário seleciona uma avaliação.
+2. Escolhe “Gerar Relatório”.
+3. O sistema reúne os dados.
+4. O PDF é gerado.
+5. O usuário pode visualizar ou salvar o arquivo.
+
+Fluxo Alternativo
+
+* A1. Não há dados suficientes.
+    * O sistema informa que não foi possível gerar o relatório.
+
+
+Caso de Uso 6 – Exportar Dados
+
+Ator: Avaliador / Administrador
+
+Objetivo: Exportar avaliações para outro formato.
+
+Fluxo Normal
+
+1. O usuário acessa a opção de exportação.
+2. Seleciona o formato desejado.
+3. O sistema gera o arquivo.
+4. O arquivo é disponibilizado para download.
+
+Fluxo Alternativo
+
+* A1. Ocorre uma falha durante a exportação.
+    * O sistema informa o erro.
+    * O usuário pode tentar novamente.
 
 
 # Links:
