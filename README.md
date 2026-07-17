@@ -49,6 +49,48 @@ Fluxo Alternativo
 * A1. Algum campo obrigatório não foi preenchido.
     * O sistema informa o erro.
     * O cadastro não é realizado.
+      
+
+  Caso de Uso 3 – Registrar Avaliação
+
+Ator: Avaliador
+
+Objetivo: Registrar os resultados da avaliação física.
+
+Fluxo Normal
+
+1. O avaliador seleciona um avaliado.
+2. Informa os resultados dos testes.
+3. Clica em “Salvar”.
+4. O sistema calcula automaticamente a classificação PROESP-BR.
+5. A avaliação é armazenada.
+
+Fluxo Alternativo
+
+* A1. Algum valor informado é inválido.
+    * O sistema exibe uma mensagem de erro.
+    * O usuário corrige os dados.
+
+
+Caso de Uso 4 – Visualizar Avaliações
+
+Ator: Avaliador / Administrador
+
+Objetivo: Consultar avaliações registradas.
+
+Fluxo Normal
+
+1. O usuário acessa a tela de avaliações.
+2. O sistema apresenta a lista.
+3. O usuário seleciona uma avaliação.
+4. O sistema exibe seus detalhes.
+
+Fluxo Alternativo
+
+* A1. Não existem avaliações cadastradas.
+    * O sistema informa que não há registros.
+
+
 
 
 # Links:
