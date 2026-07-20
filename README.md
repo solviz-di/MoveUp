@@ -284,5 +284,6 @@ Fluxo Alternativo
    * O sistema informa o erro.
    * O usuário pode tentar novamente mais tarde.
 # Links:
-  # Protótipo Figma:
+  # Protótipo Figma: 
+https://www.figma.com/make/ciV8MWfvES4QA05w2IWWXK/User-Authentication-Screens?t=uDod0prtS9BKqev0-1
 
