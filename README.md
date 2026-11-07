@@ -17,7 +17,7 @@ https://www.figma.com/make/ciV8MWfvES4QA05w2IWWXK/User-Authentication-Screens?t=
 
 RF01: O sistema deve permitir que o avaliador realize login utilizando e-mail e senha.
 
-RF02: O sistema deve permitir que o avaliador visualize as avaliações realizadas por ele.
+RF02: O sistema deve permitir que o avaliador visualize somente as avaliações realizadas por ele.
 
 RF03: O sistema deve permitir que o avaliador cadastre novos avaliados.
 
@@ -33,7 +33,7 @@ RF08: O sistema deve permitir que o avaliador exclua avaliações registradas po
 
 RF09: O sistema deve calcular automaticamente as classificações dos resultados conforme as tabelas de referência do PROESP-BR.
 
-RF10: O sistema deve permitir que o avaliador visualize as avaliações cadastradas e seus respectivos resultados.
+RF10: O sistema deve apresentar os resultados dos testes e as respectivas classificações nas avaliações consultadas.
 
 RF11: O sistema deve permitir que o avaliador exporte os dados das avaliações para arquivos em formatos de planilha, como XLS, XLSX ou ODS.
 
