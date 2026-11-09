@@ -11,7 +11,7 @@ Repositório destinado ao desenvolvimento do sistema MoveUP, contendo documenta�
 
 # Links:
   # Protótipo Figma: 
-https://www.figma.com/make/ciV8MWfvES4QA05w2IWWXK/User-Authentication-Screens?t=uDod0prtS9BKqev0-1
+https://www.figma.com/proto/AsDSkV5gg1y998dHmEvgMp/Sem-t%C3%ADtulo?node-id=3-27570&p=f&t=hI58Xa8zjLm1Bgz6-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 # Requisitos Funcionais
 
