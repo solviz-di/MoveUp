@@ -39,11 +39,7 @@ RF11: O sistema deve permitir que o avaliador exporte os dados das avaliações 
 
 RF12: O sistema deve permitir que o avaliador gere relatórios individuais em formato PDF.
 
-RF13: Os relatórios em PDF devem apresentar os dados do avaliado, os resultados dos testes, as medidas e as classificações obtidas.
+RF13: O sistema deve permitir que o usuário acesse uma área de ajuda com orientações sobre o uso do aplicativo.
 
-RF14: O sistema deve permitir que o usuário acesse uma área de ajuda com orientações sobre o uso do aplicativo.
-
-RF15: O sistema deve disponibilizar, na área de ajuda, instruções sobre a realização dos testes e links para vídeos relacionados ao PROESP-BR.
-
-RF16: O sistema deve permitir que o usuário consulte a política de privacidade e as informações sobre o tratamento dos dados pessoais.
+RF14: O sistema deve permitir que o usuário consulte a política de privacidade e as informações sobre o tratamento dos dados pessoais.
 
